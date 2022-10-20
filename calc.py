@@ -7,5 +7,5 @@ diff=a-b
 div=a/b
 print('sum=', sum)
 print('product=',product)
-print('diff1=',diff)
+print('diff=',diff)
 print('div=',div)
