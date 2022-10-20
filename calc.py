@@ -1,0 +1,11 @@
+a=10
+b=5
+c=25
+sum=a+b+c
+product=a*b*c
+diff1=a-b
+diff2=c-b
+print('sum=', sum)
+print('product=',product)
+print('diff1=',diff1)
+print('diff2=',diff2)
